@@ -1,19 +1,21 @@
 ## African-ancestry T2D GWAS
 Source: dbGaP
-Study: Million Veteran Program (MVP)
+Study: Million Veteran Program (MVP) Summary Results from Non-Sensitive Omics Studies
+Reference: Verma et al., 2024 (MVP genome-wide PheWAS)
 Trait: Type 2 diabetes, PheCode 250.2
 Analysis: Phe_250_2.AFR.GIA
-Accession: phs001844.v2.p1
-
+Analysis accession: pha006862.1
+Study accession: phs002453.v1.p1
 
 ## European-ancestry T2D GWAS
 Source: dbGaP
-Study: Million Veteran Program (MVP)
+Study: Million Veteran Program (MVP) Summary Results from Non-Sensitive Omics Studies
+Reference: Verma et al., 2024 (MVP genome-wide PheWAS)
 Trait: Type 2 diabetes, PheCode 250.2
 Analysis: Phe_250_2.EUR.GIA
-Accession: phs001844.v2.p1
-Your actual file: MVP_T2D_Phe_250_2_EUR_raw.txt.gz
-
+Analysis accession: pha006861.1
+Study accession: phs002453.v1.p1
+Local file used: MVP_T2D_Phe_250_2_EUR_raw.txt.gz
 
 ## 1000 Genomes Phase 3 reference panel
 Source: International Genome Sample Resource (IGSR) / 1000 Genomes Project
