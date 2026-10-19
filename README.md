@@ -24,12 +24,7 @@ Do the ancestry of the discovery GWAS and the ancestry of the LD reference indep
 - Changing one factor while holding the other fixed separates the GWAS effect from the LD effect and allows an interaction check.
 
 ## Workflow
-
-```
-GWAS summary statistics -> QC -> harmonization -> P-value thresholding
-   -> candidate SNPs -> LD clumping (AFR or EUR reference)
-   -> index SNPs -> PRS weights
-```
+![Full Workflow Image](Effects-of-GWAS-and-LD-reference-Workflow.png)
 
 ## Notebooks
 
