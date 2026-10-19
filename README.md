@@ -24,7 +24,7 @@ Do the ancestry of the discovery GWAS and the ancestry of the LD reference indep
 - Changing one factor while holding the other fixed separates the GWAS effect from the LD effect and allows an interaction check.
 
 ## Workflow
-![Full Workflow Image](Effects-of-GWAS-and-LD-reference-Workflow.png)
+![Full Workflow Image](workflow/Effects of GWAS and LD reference Workflow.jpg)
 
 ## Notebooks
 
