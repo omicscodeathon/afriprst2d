@@ -1,6 +1,7 @@
 # Ancestry mismatches in discovery-GWAS and LD-reference compromise African-centric polygenic risk scores
 
 A 2 × 2 factorial comparison of how the ancestry of the **discovery GWAS** and the ancestry of the **LD reference panel** shape the composition of a Type 2 Diabetes (T2D) polygenic risk score (PRS) built by P-value thresholding and LD clumping.
+![Study Design](figures/Study%20Design.jpg)
 
 > **Scope:** this project studies PRS *construction and composition* (which variants and weights end up in the score). It does **not** evaluate individual-level predictive accuracy.
 
