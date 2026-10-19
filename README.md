@@ -1,4 +1,4 @@
-# Effects of Discovery-GWAS and LD-Reference Ancestry on the Construction of Type 2 Diabetes Polygenic Risk Scores
+# Ancestry mismatches in discovery-GWAS and LD-reference compromise African-centric polygenic risk scores
 
 A 2 × 2 factorial comparison of how the ancestry of the **discovery GWAS** and the ancestry of the **LD reference panel** shape the composition of a Type 2 Diabetes (T2D) polygenic risk score (PRS) built by P-value thresholding and LD clumping.
 
@@ -121,12 +121,3 @@ A weight-file audit found that at multi-allelic sites some EUR weight rows carri
 - Runs in Google Colab with data on Google Drive.
 - Python: pandas, numpy, matplotlib; PLINK for clumping.
 - TODO: clumping parameters (r², window), GWAS sample sizes, 1000 Genomes panel sizes, genome build.
-
-## Repository structure
-
-```
-notebooks/    01-04 pipelines, 05-08 comparisons
-results/      summary tables (weight_summary.tsv, LD_clumping_summary.tsv, ...)
-figures/
-README.md
-```
